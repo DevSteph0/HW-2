@@ -5,8 +5,6 @@ Welcome to this week's Challenge! This is an even-numbered week, so you won't be
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
 With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-#Video link
-https://app.castify.com/view/0b363e09-69f6-4bd1-8dca-5e9a1a56c1ff
 
 #Launched website
 http://127.0.0.1:5500/index.html
